@@ -1,1 +1,1 @@
-This files are tuav plane model for ardupilot 
+This is the plain version of tuav plane for ardupilot and gazebo
